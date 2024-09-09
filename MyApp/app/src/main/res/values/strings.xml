@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BruQuiz</string>
+    <string name="question_Capital_text">Paris é a capital da França</string>
+    <string name="question_Terra_text">O Sol gira em torno da Terra</string>
+    <string name="question_agua_text">A água ferve a 100 graus Celsius ao nível do mar</string>
+    <string name="question_adição_text">2 + 2 = 5</string>
+    <string name="question_Lua_text">A Lua é maior que a Terra</string>
+    
+    <string name="true_button">Girafa</string>
+
+    <string name="false_button">Cavalo-Marinho</string>
+
+    <string name="correct">Acertou!!!!!!!!!!!!!!!!</string>
+
+    <string name="Wrong">Errou!!!!!!!!!!!!!!</string>
+
+
+</resources>
